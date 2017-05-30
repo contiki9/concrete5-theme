@@ -2,7 +2,7 @@
 /**
  * Theme Boilerplate Theme Controller File.
  */
-namespace Concrete\Theme\concrete5Theme;
+namespace Application\Theme\concrete5Theme;
 
 use Concrete\Core\Page\Theme\Theme as Theme;
 
